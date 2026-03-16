@@ -24,8 +24,6 @@
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="130" alt="dev animation"/>
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="130" alt="coder animation"/>
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200" alt="night coding"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Hand%20Wave.gif" width="32" alt="wave"/>
-</p>
 
 ---
 
