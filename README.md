@@ -142,9 +142,7 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KanhaBaral/KanhaBaral/output/ocean.gif" alt="snake gif mode"/>
-</p>
+
 
 ---
 
